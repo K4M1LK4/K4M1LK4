@@ -1,6 +1,6 @@
 # Hi there 👋 I'm **YOUR NAME**
 
-[![Website](https://img.shields.io/badge/website-portfolio-lightgrey)](YOUR_WEBSITE) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin\&logoColor=white)](YOUR_LINKEDIN) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter\&logoColor=white)](YOUR_TWITTER) [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL)
+[![Website](https://img.shields.io/badge/website-portfolio-lightgrey)]([YOUR_WEBSITE](https://k4m1lk4.github.io/mohamed_kamil.github.io/)) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin\&logoColor=white)](YOUR_LINKEDIN) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter\&logoColor=white)](YOUR_TWITTER) [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail\&logoColor=white)](mailto:kouartikamil@gmail.com)
 
 ---
 
@@ -46,7 +46,7 @@ One-line summary + why someone should check it out.
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" alt="YOUR_USERNAME's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" alt="K4M1LK4's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
